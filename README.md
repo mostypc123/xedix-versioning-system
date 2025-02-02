@@ -16,7 +16,9 @@ This is a versioning system that I've made for no literal reason.
 6. Try changing the branch
   - run `python3 change_branch.py`
   - enter the branch name
-7. Check the changes
+7. Check the status
+  - run `python3 status.py`
+8. Check the changes
   - run `cd ..`
   - run `cd front`
   - open the `index.html`

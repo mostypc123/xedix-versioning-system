@@ -17,3 +17,6 @@ for file in files:
     with open(file, "r") as f:
         for line in f:
             commits_file.write(line)
+            
+with open("status", "w") as f:
+    f.write("Commited changes\non " + time + "\n")
