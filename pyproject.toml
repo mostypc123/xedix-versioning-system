@@ -6,7 +6,7 @@ build-backend = "setuptools.build_meta"
 name = "xvs"
 version = "0.1.0"
 authors = [
-    {name = "Juraj Kollár", email = "mostypc7@gmail.com"},
+    {name = "Juraj Kollár", email = "mostypc7@gmail.com"}
 ]
 description = "A simple version control system"
 readme = "README.md"
