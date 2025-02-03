@@ -1,4 +1,4 @@
-# XediX Version System
+# XediX Versioning System
 
 This is a versioning system that I've made for no literal reason.
 
@@ -12,6 +12,7 @@ This is a versioning system that I've made for no literal reason.
   - make changes
 5. Run `python3 commit.py`
   - enter the files you changed, separated by commas
+    - `file1, file2`
   - enter commit message
 6. Try changing the branch
   - run `python3 change_branch.py`
