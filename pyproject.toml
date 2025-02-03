@@ -3,7 +3,7 @@ requires = ["setuptools>=45", "setuptools_scm[toml]>=6.2"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "xvs"
+name = "xedix-versioning-system"
 version = "0.1.0"
 authors = [
     {name = "Juraj Kollár", email = "mostypc7@gmail.com"}
